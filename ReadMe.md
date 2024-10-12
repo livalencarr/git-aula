@@ -1,3 +1,5 @@
 # Git e GitHub
 
-te amo
+Curso Git e GitHub
+
+Dia 1
